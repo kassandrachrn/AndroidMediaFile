@@ -1,0 +1,103 @@
+{
+  "files": [
+    {
+      "fileID":"0",
+      "fileName": "Monster.png",
+      "fileSize": "2.8",
+      "fileType": "image",
+      "location": "phone storage",
+      "dateModified": "2017-08-17",
+      "qualityRate": "3",
+      "isPrivate": "true",
+      "selected": "false"
+    },
+    {
+      "fileID":"1",
+      "fileName": "Cars.png",
+      "fileSize": "5.8",
+      "fileType": "music",
+      "location": "phone storage",
+      "dateModified": "2016-10-15",
+      "qualityRate": "4",
+      "isPrivate": "false",
+      "selected": "false"
+    },
+    {
+      "fileID":"2",
+      "fileName": "Thunderstruck.mp3",
+      "fileSize": "7",
+      "fileType": "music",
+      "location": "sd card",
+      "dateModified": "2016-07-23",
+      "qualityRate": "4",
+      "isPrivate": "false",
+      "selected": "false"
+    },
+    {
+      "fileID":"3",
+      "fileName": "WayDownWeGo.mp3",
+      "fileSize": "3.8",
+      "fileType": "music",
+      "location": "phone storage",
+      "dateModified": "2017-02-15",
+      "qualityRate": "3",
+      "isPrivate": "true",
+      "selected": "false"
+    },
+    {
+      "fileID":"4",
+      "fileName": "Airplanes.mp3",
+      "fileSize": "5.8",
+      "fileType": "music",
+      "location": "phone storage",
+      "dateModified": "2016-10-15",
+      "qualityRate": "4",
+      "isPrivate": "true",
+      "selected": "false"
+    },
+    {
+      "fileID":"5",
+      "fileName": "HoldingOn.mp3",
+      "fileSize": "3.5",
+      "fileType": "music",
+      "location": "phone storage",
+      "dateModified": "2017-08-15",
+      "qualityRate": "4",
+      "isPrivate": "true",
+      "selected": "false"
+    },
+    {
+      "fileID":"6",
+      "fileName": "TheThiefAndTheMoon.mp3",
+      "fileSize": "7.8",
+      "fileType": "music",
+      "location": "cloud",
+      "dateModified": "2016-10-19",
+      "qualityRate": "4",
+      "isPrivate": "true",
+      "selected": "false"
+    },
+    {
+      "fileID":"7",
+      "fileName": "Cats.png",
+      "fileSize": "0.3",
+      "fileType": "image",
+      "location": "phone storage",
+      "dateModified": "2012-12-28",
+      "qualityRate": "4",
+      "isPrivate": "true",
+      "selected": "false"
+    },
+    {
+      "fileID":"8",
+      "fileName": "Doggos.jpeg",
+      "fileSize": "0.7",
+      "fileType": "image",
+      "location": "cloud",
+      "dateModified": "2016-05-17",
+      "qualityRate": "3",
+      "isPrivate": "false",
+      "selected": "false"
+    }
+  ]
+}

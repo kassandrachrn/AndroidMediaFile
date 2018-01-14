@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:accessibilityLiveRegion="polite"
+        android:orientation="horizontal"
+        android:visibility="visible"
+        tools:clickable="false">
+
+        <RadioButton
+            android:id="@+id/rad1"
+            android:layout_width="129dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:text="Favorite"
+            android:textSize="13px" />
+
+        <RadioButton
+            android:id="@+id/rad2"
+            android:layout_width="149dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:clickable="false"
+            android:text="Don't press this"
+            android:textSize="13px" />
+
+        <RadioButton
+            android:id="@+id/rad3"
+            android:layout_width="169dp"
+            android:layout_height="43dp"
+            android:clickable="false"
+            android:layout_weight="1"
+            android:checked="false"
+            android:text="Delete files"
+            android:textSize="13px" />
+
+    </RadioGroup>
+
+    <GridView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/gridViewFiles"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:clickable="true"
+        android:columnWidth="100dp"
+        android:drawSelectorOnTop="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:numColumns="1"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="5dp"></GridView>
+
+</LinearLayout>
